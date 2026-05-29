@@ -202,6 +202,12 @@
 2. 点击 **「恢复默认设置」** 按钮
 3. 删除程序同目录下的两个配置文件，重新运行
 
+## 📥 下载
+[![最新版本](https://img.shields.io/github/v/release/LIU306988/Remote-connect-to-Android?style=for-the-badge)](https://github.com/LIU306988/Remote-connect-to-Android/releases/latest)
+[![下载量](https://img.shields.io/github/downloads/LIU306988/Remote-connect-to-Android/total?style=for-the-badge)](https://github.com/LIU306988/Remote-connect-to-Android/releases/latest)
+
+👉 **[点击下载最新版](https://github.com/LIU306988/Remote-connect-to-Android/releases/latest/download/Rcta.exe)**
+
 ---
 
 > 本程序仅供学习和个人使用，请遵守相关法律法规。
